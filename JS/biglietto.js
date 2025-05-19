@@ -22,4 +22,4 @@ if(eta < 18) {
 const prezzoFinale = prezzoBase - sconto
 
 console.log(sconto)
-console.log(prezzoFinale)
+console.log(prezzoFinale.toFixed(2))
